@@ -1,0 +1,3 @@
+[console_scripts]
+mission_executor = mission_executor.mission_executor:main
+

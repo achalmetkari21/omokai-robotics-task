@@ -1,0 +1,3 @@
+source;share/llm_bridge/hook/pythonpath.ps1
+source;share/llm_bridge/hook/pythonpath.dsv
+source;share/llm_bridge/hook/pythonpath.sh

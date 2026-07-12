@@ -1,0 +1,6 @@
+Invoking command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/achal/omokai_task/ros2_ws/src/mission_interfaces -DCMAKE_INSTALL_PREFIX=/home/achal/omokai_task/ros2_ws/install/mission_interfaces
+Invoked command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/achal/omokai_task/ros2_ws/src/mission_interfaces -DCMAKE_INSTALL_PREFIX=/home/achal/omokai_task/ros2_ws/install/mission_interfaces
+Invoking command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/achal/omokai_task/ros2_ws/build/mission_interfaces -- -j16 -l16
+Invoked command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/achal/omokai_task/ros2_ws/build/mission_interfaces -- -j16 -l16
+Invoking command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/achal/omokai_task/ros2_ws/build/mission_interfaces
+Invoked command in '/home/achal/omokai_task/ros2_ws/build/mission_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/achal/omokai_task/ros2_ws/build/mission_interfaces

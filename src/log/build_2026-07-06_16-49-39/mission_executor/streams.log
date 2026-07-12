@@ -1,0 +1,35 @@
+[0.851s] Invoking command in '/home/achal/omokai_task/ros2_ws/src/mission_executor': PYTHONPATH=/home/achal/omokai_task/ros2_ws/src/build/mission_executor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mission_executor build --build-base /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build install --record /home/achal/omokai_task/ros2_ws/src/build/mission_executor/install.log --install-scripts $base/lib/mission_executor --single-version-externally-managed install_data
+[1.086s] running egg_info
+[1.086s] creating ../build/mission_executor/mission_executor.egg-info
+[1.087s] writing ../build/mission_executor/mission_executor.egg-info/PKG-INFO
+[1.087s] writing dependency_links to ../build/mission_executor/mission_executor.egg-info/dependency_links.txt
+[1.087s] writing entry points to ../build/mission_executor/mission_executor.egg-info/entry_points.txt
+[1.087s] writing requirements to ../build/mission_executor/mission_executor.egg-info/requires.txt
+[1.087s] writing top-level names to ../build/mission_executor/mission_executor.egg-info/top_level.txt
+[1.087s] writing manifest file '../build/mission_executor/mission_executor.egg-info/SOURCES.txt'
+[1.089s] reading manifest file '../build/mission_executor/mission_executor.egg-info/SOURCES.txt'
+[1.089s] writing manifest file '../build/mission_executor/mission_executor.egg-info/SOURCES.txt'
+[1.089s] running build
+[1.089s] running build_py
+[1.089s] creating /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build
+[1.090s] creating /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build/lib
+[1.090s] creating /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build/lib/mission_executor
+[1.090s] copying mission_executor/__init__.py -> /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build/lib/mission_executor
+[1.090s] running install
+[1.090s] running install_lib
+[1.091s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages/mission_executor
+[1.091s] copying /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build/lib/mission_executor/__init__.py -> /home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages/mission_executor
+[1.091s] byte-compiling /home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages/mission_executor/__init__.py to __init__.cpython-310.pyc
+[1.091s] running install_data
+[1.091s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share
+[1.092s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/ament_index
+[1.092s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/ament_index/resource_index
+[1.092s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/ament_index/resource_index/packages
+[1.092s] copying resource/mission_executor -> /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/ament_index/resource_index/packages
+[1.092s] creating /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/mission_executor
+[1.092s] copying package.xml -> /home/achal/omokai_task/ros2_ws/src/install/mission_executor/share/mission_executor
+[1.092s] running install_egg_info
+[1.093s] Copying ../build/mission_executor/mission_executor.egg-info to /home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages/mission_executor-0.0.0-py3.10.egg-info
+[1.094s] running install_scripts
+[1.111s] writing list of installed files to '/home/achal/omokai_task/ros2_ws/src/build/mission_executor/install.log'
+[1.138s] Invoked command in '/home/achal/omokai_task/ros2_ws/src/mission_executor' returned '0': PYTHONPATH=/home/achal/omokai_task/ros2_ws/src/build/mission_executor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achal/omokai_task/ros2_ws/src/install/mission_executor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mission_executor build --build-base /home/achal/omokai_task/ros2_ws/src/build/mission_executor/build install --record /home/achal/omokai_task/ros2_ws/src/build/mission_executor/install.log --install-scripts $base/lib/mission_executor --single-version-externally-managed install_data
