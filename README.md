@@ -282,10 +282,10 @@ Shelf D
 ↓
 
 Charging Dock
+
+DEMONSTRATION VIDEO LINK : https://youtu.be/qSqUbrHIYW0
+
 ```
-
----
-
 # Future Improvements
 
 - ROS2 Navigation2 integration
@@ -297,16 +297,11 @@ Charging Dock
 - Voice command interface
 
 ---
+```
 
 # Author
 
-**Achal Metkari**
-
-Final Year Engineering Student
-
-Robotics & Automation
-
-Savitribai Phule Pune University
+**Achal Metkari** (Final year Engineering student)
 
 ---
 
