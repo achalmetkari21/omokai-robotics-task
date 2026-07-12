@@ -6,7 +6,7 @@ This project demonstrates a Natural Language controlled autonomous robot built u
 
 The system converts human instructions into structured robot missions and executes them through a deterministic ROS2 controller.
 
----
+🎥 **Project Demo:** https://youtu.be/qSqUbrHIYW0
 
 # Project Overview
 
@@ -282,7 +282,6 @@ Shelf D
 ↓
 
 Charging Dock
-```
 
 ---
 
@@ -297,19 +296,12 @@ Charging Dock
 - Voice command interface
 
 ---
-
+```
 # Author
 
-**Achal Metkari**
-
-Final Year Engineering Student
-
-Robotics & Automation
-
-Savitribai Phule Pune University
-
----
-
+**Achal Metkari** (Final year Engineering Student)
+```
+```
 # License
 
 This project was developed as part of the OmokAI Robotics Assignment for educational purposes.
