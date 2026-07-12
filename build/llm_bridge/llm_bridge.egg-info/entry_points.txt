@@ -1,3 +1,0 @@
-[console_scripts]
-llm_bridge = llm_bridge.llm_bridge:main
-
