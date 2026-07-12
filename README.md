@@ -201,7 +201,7 @@ source install/setup.bash
 ```
 
 ## Launch Gazebo
-
+```
 cd ~/omokai_task/ros2_ws
 
 colcon build
@@ -214,7 +214,7 @@ ros2 launch turtlebot3_gazebo empty_world.launch.py
 ```
 
 ## Run Mission Executor
-
+```
 cd ~/omokai_task/ros2_ws
 
 colcon build
@@ -225,7 +225,7 @@ ros2 run mission_executor mission_executor
 ```
 
 ## Run LLM Bridge
-
+```
 cd ~/omokai_task/ros2_ws
 
 colcon build
